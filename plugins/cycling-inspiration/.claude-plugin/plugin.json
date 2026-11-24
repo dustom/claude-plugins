@@ -1,0 +1,10 @@
+{
+  "name": "cycling-inspiration",
+  "version": "1.0.0",
+  "description": "Writes bilingual (CZ/EN) route pages for the Cycling Inspiration site from GPX files and ride photos.",
+  "author": {
+    "name": "Tomas Dusek",
+    "url": "https://github.com/dustom"
+  },
+  "keywords": ["cycling", "gpx", "content", "czech"]
+}
